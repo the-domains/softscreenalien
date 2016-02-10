@@ -1,0 +1,29 @@
+name: softscreenalien
+favicon: null
+layout_spectrum: 0.3179671473335475
+typography_spectrum: 0.2871805627364665
+title: Soft Screen Alien
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-73603746-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.553571191849187
+  lightness: 0.25179380597546697
+  saturation: 0.026737685315310955
+  rhythmicContrast: 0.5696039500180632
+purpose: []
